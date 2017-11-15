@@ -1,0 +1,13 @@
+c:\users\袁怡嘉\source\repos\1280_SecondhomeWork\1280.Service\bin\Debug\1280.Service.dll
+c:\users\袁怡嘉\source\repos\1280_SecondhomeWork\1280.Service\bin\Debug\1280.Service.pdb
+c:\users\袁怡嘉\source\repos\1280_SecondhomeWork\1280.Service\obj\Debug\1280.Service.csprojResolveAssemblyReference.cache
+c:\users\袁怡嘉\source\repos\1280_SecondhomeWork\1280.Service\obj\Debug\1280.Service.csproj.CoreCompileInputs.cache
+c:\users\袁怡嘉\source\repos\1280_SecondhomeWork\1280.Service\obj\Debug\1280.Service.dll
+c:\users\袁怡嘉\source\repos\1280_SecondhomeWork\1280.Service\obj\Debug\1280.Service.pdb
+C:\c####\1280_SecondhomeWork\1280.Service\bin\Debug\1280.Service.dll
+C:\c####\1280_SecondhomeWork\1280.Service\bin\Debug\1280.Service.pdb
+C:\c####\1280_SecondhomeWork\1280.Service\obj\Debug\1280.Service.csprojResolveAssemblyReference.cache
+C:\c####\1280_SecondhomeWork\1280.Service\obj\Debug\1280.Service.dll
+C:\c####\1280_SecondhomeWork\1280.Service\obj\Debug\1280.Service.pdb
+C:\c####\1280_SecondhomeWork\1280.Service\bin\Debug\Newtonsoft.Json.dll
+C:\c####\1280_SecondhomeWork\1280.Service\bin\Debug\Newtonsoft.Json.xml
