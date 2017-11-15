@@ -34,8 +34,6 @@ namespace _1280_SecondhomeWork
                 if (null != field) field.SetValue(model, info.GetValue(config));
             }
 
-
-            //config.EventList.CheckNull().ToList().ForEach(r => model.FireEvent += () => model.OutLog(r));
             return model;
         }
 

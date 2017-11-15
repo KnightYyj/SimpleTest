@@ -85,6 +85,7 @@ namespace _1280_SecondhomeWork
                 mid.Show();//新增一个Show方法，依次调用方法
             }
 
+            //json数据然后解析使用
             {
                 Console.WriteLine("***工厂测试***");
                 var south = SimpleFactory.Create<Southor>();
@@ -93,6 +94,11 @@ namespace _1280_SecondhomeWork
                 Console.WriteLine("***工厂测试结束***");
             }
 
+              //下面的没怎么实现
+              //8 在程序的某些环节，大家可以试着使用泛型、反射、特性；
+              //可以尝试多线程并发
+              //可以让不同门派的颜色不同
+              //甚至可以尝试加入音效
             Console.ReadLine();
         }
 

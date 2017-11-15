@@ -1,13 +1,12 @@
 {
-  "compilerOptions": {
-    "noImplicitAny": false,
-    "noEmitOnError": true,
-    "removeComments": false,
-    "sourceMap": true,
-    "target": "es5"
-  },
-  "exclude": [
-    "node_modules",
-    "wwwroot"
-  ]
+  "DllName": "Ventriloquism",
+  "ClassName": "Westor",
+  "SouthorName": "我是Westor自己",
+  "person": "Westor的人json",
+  "table": "Westor的桌子json",
+  "chair": "Westor的椅子json",
+  "fan": "Westor的扇子json",
+  "ruler": "Westor的抚尺json",
+  "temperature": 800
 }
+

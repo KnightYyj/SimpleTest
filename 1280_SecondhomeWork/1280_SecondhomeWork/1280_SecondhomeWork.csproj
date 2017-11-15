@@ -49,7 +49,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ConfigFile\North.json" />
     <None Include="ConfigFile\Westor.json" />
     <None Include="ConfigFile\Southor.json" />
     <None Include="ConfigFile\Eastor.json" />
