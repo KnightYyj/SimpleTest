@@ -23,3 +23,17 @@ C:\c####\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\1280.Service.dll
 C:\c####\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\Newtonsoft.Json.dll
 C:\c####\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\1280.Service.pdb
 C:\c####\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\1280_SecondhomeWork.exe.config
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\1280_SecondhomeWork.exe
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\1280_SecondhomeWork.pdb
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\1280.InterFace.dll
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\1280.Service.dll
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\Ventriloquism.dll
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\1280.InterFace.pdb
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\1280.Service.pdb
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\Ventriloquism.pdb
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\obj\Debug\1280_SecondhomeWork.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\obj\Debug\1280_SecondhomeWork.exe
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280_SecondhomeWork\obj\Debug\1280_SecondhomeWork.pdb

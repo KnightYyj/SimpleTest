@@ -56,7 +56,7 @@ namespace Ventriloquism
             base.temperature = temperature;
             if (base.temperature > 800)
             {
-                Console.WriteLine("*********火起***********");
+                Console.WriteLine($"****{Field}*****火起***********");
             }
             OnSouthFireEvent();
         }

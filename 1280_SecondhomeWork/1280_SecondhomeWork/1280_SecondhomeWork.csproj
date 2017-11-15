@@ -33,6 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -44,13 +45,14 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleFactory.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="ConfigFile\North.json" />
-    <None Include="ConfigFile\West.json" />
-    <None Include="ConfigFile\South.json" />
-    <None Include="ConfigFile\East.json" />
+    <None Include="ConfigFile\Westor.json" />
+    <None Include="ConfigFile\Southor.json" />
+    <None Include="ConfigFile\Eastor.json" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\1280.InterFace\1280.InterFace.csproj">

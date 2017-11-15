@@ -1,0 +1,12 @@
+{
+  "DllName": "Ventriloquism",
+  "ClassName": "Southor",
+  "SouthorName": "我是南派自己",
+  "person": "南派的人json",
+  "table": "南派的桌子json",
+  "chair": "南派的椅子json",
+  "fan": "南派的扇子json",
+  "ruler": "南派的抚尺json",
+  "temperature": 800
+}
+

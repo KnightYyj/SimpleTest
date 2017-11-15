@@ -12,6 +12,8 @@ namespace _1280_SecondhomeWork
 {
     class Program
     {
+        public static event Action FireEventHandlerEvent;//事件就是委托的实例，增加event关键字,防止外部直接invoke和赋值
+
         static void Main(string[] args)
         {
             #region  一个泛型方法(用接口和基类约束)
@@ -82,11 +84,20 @@ namespace _1280_SecondhomeWork
                 mid.MiddlerEndEvent += () => Console.WriteLine("***********ENDMID**************");
                 mid.Show();//新增一个Show方法，依次调用方法
             }
+
+            {
+                Console.WriteLine("***工厂测试***");
+                var south = SimpleFactory.Create<Southor>();
+                Play<Southor>((Southor)south);
+                south.SetTemperature(900);
+                Console.WriteLine("***工厂测试结束***");
+            }
+
             Console.ReadLine();
         }
 
 
-        public static event Action FireEventHandlerEvent;//事件就是委托的实例，增加event关键字,防止外部直接invoke和赋值
+      
 
 
 

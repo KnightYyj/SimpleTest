@@ -46,7 +46,7 @@ namespace _1280.Service
         }
 
         /// <summary>
-        /// JsonConvert.DeserializeObject
+        /// JsonConvert.DeserializeObject  JsonToObject序列化方法 
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="content"></param>

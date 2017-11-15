@@ -13,3 +13,10 @@ C:\c####\1280_SecondhomeWork\Ventriloquism\bin\Debug\1280.InterFace.pdb
 C:\c####\1280_SecondhomeWork\Ventriloquism\obj\Debug\Ventriloquism.csprojResolveAssemblyReference.cache
 C:\c####\1280_SecondhomeWork\Ventriloquism\obj\Debug\Ventriloquism.dll
 C:\c####\1280_SecondhomeWork\Ventriloquism\obj\Debug\Ventriloquism.pdb
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\Ventriloquism\bin\Debug\Ventriloquism.dll
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\Ventriloquism\bin\Debug\Ventriloquism.pdb
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\Ventriloquism\bin\Debug\1280.InterFace.dll
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\Ventriloquism\bin\Debug\1280.InterFace.pdb
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\Ventriloquism\obj\Debug\Ventriloquism.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\Ventriloquism\obj\Debug\Ventriloquism.dll
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\Ventriloquism\obj\Debug\Ventriloquism.pdb
