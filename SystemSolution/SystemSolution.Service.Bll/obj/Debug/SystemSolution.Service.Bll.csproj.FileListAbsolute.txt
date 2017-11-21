@@ -1,0 +1,30 @@
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\obj\Debug\SystemSolution.Service.Bll.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Service.Bll.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Service.Bll.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Model.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Model.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\obj\Debug\SystemSolution.Service.Bll.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\obj\Debug\SystemSolution.Service.Bll.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\bin\Debug\DbSqlHelper.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Common.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Interface.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\bin\Debug\DbSqlHelper.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Common.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Interface.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Common.Attributes.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Common.Attributes.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Service.Bll.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Service.Bll.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\bin\Debug\DbSqlHelper.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Common.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Interface.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Model.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Common.Attributes.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\bin\Debug\DbSqlHelper.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Common.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Interface.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Model.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\bin\Debug\SystemSolution.Common.Attributes.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\obj\Debug\SystemSolution.Service.Bll.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\obj\Debug\SystemSolution.Service.Bll.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Service.Bll\obj\Debug\SystemSolution.Service.Bll.pdb

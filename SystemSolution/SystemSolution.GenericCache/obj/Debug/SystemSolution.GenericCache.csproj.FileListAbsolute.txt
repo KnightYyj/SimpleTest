@@ -1,0 +1,10 @@
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.GenericCache\bin\Debug\SystemSolution.GenericCache.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.GenericCache\bin\Debug\SystemSolution.GenericCache.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.GenericCache\obj\Debug\SystemSolution.GenericCache.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.GenericCache\obj\Debug\SystemSolution.GenericCache.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.GenericCache\obj\Debug\SystemSolution.GenericCache.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.GenericCache\bin\Debug\SystemSolution.GenericCache.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.GenericCache\bin\Debug\SystemSolution.GenericCache.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.GenericCache\obj\Debug\SystemSolution.GenericCache.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.GenericCache\obj\Debug\SystemSolution.GenericCache.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.GenericCache\obj\Debug\SystemSolution.GenericCache.pdb

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EF6BBD29-9CE8-4D94-8438-350D61698A1E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SystemSolution.Data</RootNamespace>
+    <AssemblyName>SystemSolution.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseSet.cs" />
+    <Compile Include="BootStart.cs" />
+    <Compile Include="IDbContext.cs" />
+    <Compile Include="ISet.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerContext.cs" />
+    <Compile Include="SqlServerSet.cs" />
+    <Compile Include="SqlServerTableInfo.cs" />
+    <Compile Include="TableInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SystemSolution.Common.Attributes\SystemSolution.Common.Attributes.csproj">
+      <Project>{e344a95e-a871-4434-9e9f-49095da171cd}</Project>
+      <Name>SystemSolution.Common.Attributes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SystemSolution.Common\SystemSolution.Common.csproj">
+      <Project>{6f7bcc56-ade5-491d-aaaf-b740c3345a68}</Project>
+      <Name>SystemSolution.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SystemSolution.GenericCache\SystemSolution.GenericCache.csproj">
+      <Project>{0aa81e60-13ff-4942-8fc8-3b3f33788029}</Project>
+      <Name>SystemSolution.GenericCache</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SystemSolution.Model\SystemSolution.Model.csproj">
+      <Project>{1422fbd5-eb84-438e-8d80-ddb66c14b094}</Project>
+      <Name>SystemSolution.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

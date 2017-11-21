@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\DbSqlHelper\obj\Debug\DbSqlHelper.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\DbSqlHelper\bin\Debug\DbSqlHelper.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\DbSqlHelper\bin\Debug\DbSqlHelper.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\DbSqlHelper\obj\Debug\DbSqlHelper.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\DbSqlHelper\obj\Debug\DbSqlHelper.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\DbSqlHelper\bin\Debug\SystemSolution.GenericCache.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\DbSqlHelper\bin\Debug\SystemSolution.GenericCache.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\DbSqlHelper\bin\Debug\DbSqlHelper.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\DbSqlHelper\bin\Debug\DbSqlHelper.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\DbSqlHelper\bin\Debug\SystemSolution.GenericCache.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\DbSqlHelper\bin\Debug\SystemSolution.GenericCache.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\DbSqlHelper\obj\Debug\DbSqlHelper.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\DbSqlHelper\obj\Debug\DbSqlHelper.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\DbSqlHelper\obj\Debug\DbSqlHelper.pdb

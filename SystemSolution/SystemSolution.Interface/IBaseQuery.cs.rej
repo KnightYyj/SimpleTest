@@ -1,0 +1,54 @@
+diff a/SystemSolution.Interface/IBaseQuery.cs b/SystemSolution.Interface/IBaseQuery.cs	(rejected hunks)
+@@ -0,0 +1,52 @@
++﻿using System;
++using System.Collections.Generic;
++using System.Linq;
++using System.Text;
++using System.Threading.Tasks;
++using SystemSolution.Model;
++
++namespace SystemSolution.Interface
++{
++    public interface IBaseQuery<T> where T : BaseModel, new()
++    {
++        /// <summary>
++        /// 按ID获取数据
++        /// </summary>
++        /// <param name="id"></param>
++        /// <returns></returns>
++        T GetById(int id);
++
++
++        /// <summary>
++        /// 获取列表
++        /// </summary>
++        /// <param name="func"></param>
++        /// <returns></returns>
++         List<T> GetList(Func<T, bool> func);
++
++
++        /// <summary>
++        /// 插入,返回插入ID
++        /// </summary>
++        /// <param name="t"></param>
++        /// <returns></returns>
++        int Insert(T t);
++
++
++        /// <summary>
++        /// 更新
++        /// </summary>
++        /// <param name="t"></param>
++        /// <returns></returns>
++        int Update(T t);
++        
++
++        /// <summary>
++        /// 删除
++        /// </summary>
++        /// <param name="id"></param>
++        /// <returns></returns>
++        int Delete(int id);
++
++    }
++}

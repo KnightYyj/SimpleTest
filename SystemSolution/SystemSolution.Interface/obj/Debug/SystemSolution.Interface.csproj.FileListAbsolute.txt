@@ -1,0 +1,18 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\SystemSolution.Interface\bin\Debug\SystemSolution.Interface.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\SystemSolution.Interface\bin\Debug\SystemSolution.Interface.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\SystemSolution.Interface\obj\Debug\SystemSolution.Interface.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\SystemSolution.Interface\obj\Debug\SystemSolution.Interface.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Interface\bin\Debug\SystemSolution.Model.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Interface\bin\Debug\SystemSolution.Model.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Interface\obj\Debug\SystemSolution.Interface.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Interface\bin\Debug\SystemSolution.Common.Attributes.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Interface\bin\Debug\SystemSolution.Common.Attributes.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Interface\bin\Debug\SystemSolution.Interface.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Interface\bin\Debug\SystemSolution.Interface.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Interface\bin\Debug\SystemSolution.Model.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Interface\bin\Debug\SystemSolution.Common.Attributes.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Interface\bin\Debug\SystemSolution.Model.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Interface\bin\Debug\SystemSolution.Common.Attributes.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Interface\obj\Debug\SystemSolution.Interface.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Interface\obj\Debug\SystemSolution.Interface.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Interface\obj\Debug\SystemSolution.Interface.pdb

@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\SystemSolution.Model\bin\Debug\SystemSolution.Model.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\SystemSolution.Model\bin\Debug\SystemSolution.Model.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\SystemSolution.Model\obj\Debug\SystemSolution.Model.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\SystemSolution\SystemSolution.Model\obj\Debug\SystemSolution.Model.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Model\obj\Debug\SystemSolution.Model.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Model\bin\Debug\SystemSolution.Common.Attributes.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.Model\bin\Debug\SystemSolution.Common.Attributes.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Model\bin\Debug\SystemSolution.Model.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Model\bin\Debug\SystemSolution.Model.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Model\bin\Debug\SystemSolution.Common.Attributes.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Model\bin\Debug\SystemSolution.Common.Attributes.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Model\obj\Debug\SystemSolution.Model.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Model\obj\Debug\SystemSolution.Model.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.Model\obj\Debug\SystemSolution.Model.pdb

@@ -1,0 +1,30 @@
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.SimpleFactory.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.SimpleFactory.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\obj\Debug\SystemSolution.SimpleFactory.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\obj\Debug\SystemSolution.SimpleFactory.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Data.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.GenericCache.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Model.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Common.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Data.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.GenericCache.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Model.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Common.pdb
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\obj\Debug\SystemSolution.SimpleFactory.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Common.Attributes.dll
+C:\Users\lenovo\Documents\Visual Studio 2017\Projects\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Common.Attributes.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.SimpleFactory.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.SimpleFactory.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Data.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.GenericCache.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Model.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Common.Attributes.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Common.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Data.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.GenericCache.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Model.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Common.Attributes.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\bin\Debug\SystemSolution.Common.pdb
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\obj\Debug\SystemSolution.SimpleFactory.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\obj\Debug\SystemSolution.SimpleFactory.dll
+C:\Users\lenovo\Documents\SimpleTest\SystemSolution\SystemSolution.SimpleFactory\obj\Debug\SystemSolution.SimpleFactory.pdb
