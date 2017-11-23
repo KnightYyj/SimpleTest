@@ -1,11 +1,9 @@
 {
-  "DllName": "Ventriloquism",
-  "ClassName": "Eastor",
-  "SectName": "东派",
-  "person": "东派的人",
-  "table": "东派的桌子",
-  "chair": "东派的椅子",
-  "fan": "东派的扇子",
-  "ruler": "东派的抚尺"
-
+  "Base_Name": "东派",
+  "Person": "笑笑先生",
+  "Table": "我是桌子",
+  "Desk": "八仙桌",
+  "Chair": "小方凳",
+  "Fan": "纸扇",
+  "Ruler": "戒尺"
 }

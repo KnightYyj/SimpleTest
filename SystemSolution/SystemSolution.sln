@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemSolution", "SystemSolution\SystemSolution.csproj", "{22DD0BCB-6F36-4A82-8B89-71B8F67AE97D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataUtils", "DataUtils\DataUtils.csproj", "{37F1D0BD-690C-41A8-BC67-698A60D0DC33}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbSqlHelper", "DbSqlHelper\DbSqlHelper.csproj", "{54440707-A61C-4003-BE6E-E8CE2AF55F7C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemSolution.Model", "SystemSolution.Model\SystemSolution.Model.csproj", "{1422FBD5-EB84-438E-8D80-DDB66C14B094}"
@@ -35,10 +33,6 @@ Global
 		{22DD0BCB-6F36-4A82-8B89-71B8F67AE97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22DD0BCB-6F36-4A82-8B89-71B8F67AE97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22DD0BCB-6F36-4A82-8B89-71B8F67AE97D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{37F1D0BD-690C-41A8-BC67-698A60D0DC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37F1D0BD-690C-41A8-BC67-698A60D0DC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37F1D0BD-690C-41A8-BC67-698A60D0DC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37F1D0BD-690C-41A8-BC67-698A60D0DC33}.Release|Any CPU.Build.0 = Release|Any CPU
 		{54440707-A61C-4003-BE6E-E8CE2AF55F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{54440707-A61C-4003-BE6E-E8CE2AF55F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54440707-A61C-4003-BE6E-E8CE2AF55F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU

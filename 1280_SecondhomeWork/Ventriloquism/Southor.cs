@@ -18,7 +18,6 @@ namespace Ventriloquism
         }
         public Southor()
         {
-            base.color = ConsoleColor.Yellow;
 
         }
 
@@ -58,16 +57,10 @@ namespace Ventriloquism
             {
                 Console.WriteLine($"****{Field}*****火起***********");
             }
-            OnSouthFireEvent();
+            base.OnFireEvent();
         }
 
-        //观察者模式
-        public event Action SouthFireEvent;
-
-        protected void OnSouthFireEvent()
-        {
-            SouthFireEvent?.Invoke();
-        }
+      
 
     }
 }

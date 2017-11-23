@@ -11,6 +11,5 @@ C:\c####\1280_SecondhomeWork\1280.InterFace\obj\Debug\1280.InterFace.dll
 C:\c####\1280_SecondhomeWork\1280.InterFace\obj\Debug\1280.InterFace.pdb
 C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.InterFace\bin\Debug\1280.InterFace.dll
 C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.InterFace\bin\Debug\1280.InterFace.pdb
-C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.InterFace\obj\Debug\1280.InterFace.csprojResolveAssemblyReference.cache
 C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.InterFace\obj\Debug\1280.InterFace.dll
 C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.InterFace\obj\Debug\1280.InterFace.pdb

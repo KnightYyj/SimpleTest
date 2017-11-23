@@ -15,6 +15,6 @@ C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.Service\bin\Debug\
 C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.Service\bin\Debug\1280.Service.pdb
 C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.Service\bin\Debug\Newtonsoft.Json.dll
 C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.Service\bin\Debug\Newtonsoft.Json.xml
-C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.Service\obj\Debug\1280.Service.csprojResolveAssemblyReference.cache
 C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.Service\obj\Debug\1280.Service.dll
 C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.Service\obj\Debug\1280.Service.pdb
+C:\Users\lenovo\Documents\SimpleTest\1280_SecondhomeWork\1280.Service\obj\Debug\1280.Service.csprojResolveAssemblyReference.cache

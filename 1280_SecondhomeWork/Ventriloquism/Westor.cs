@@ -17,7 +17,7 @@ namespace Ventriloquism
         }
         public Westor()
         {
-            base.color = ConsoleColor.Red;
+
         }
         public override void ImitateDogBark()
         {

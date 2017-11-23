@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseModel.cs" />
+    <Compile Include="Config.cs" />
     <Compile Include="Eastor.cs" />
     <Compile Include="Middler.cs" />
     <Compile Include="North.cs" />
@@ -52,6 +53,10 @@
     <ProjectReference Include="..\1280.InterFace\1280.InterFace.csproj">
       <Project>{2ce8b5b8-70bf-4b3c-a0c4-69d2939ead67}</Project>
       <Name>1280.InterFace</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\1280.Service\1280.Service.csproj">
+      <Project>{2fec74f0-e0c7-4fd3-92ae-67b6b097a75b}</Project>
+      <Name>1280.Service</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

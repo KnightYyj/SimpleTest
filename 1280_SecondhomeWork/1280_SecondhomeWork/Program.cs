@@ -16,36 +16,92 @@ namespace _1280_SecondhomeWork
 
         static void Main(string[] args)
         {
+            Show<Eastor>();
+            Console.ReadLine();
+        }
+
+
+
+
+        public static void Show<T>() where T : BaseModel, ICharge, new()
+        {
+            var type = typeof(T);
+            var t = new T();
+
+            foreach (var property  in type.GetProperties().Where(x=>x.Name.ToLower()!= "context"))
+            {
+                ConsoleHelper.WriteLine($"{t.DisplayFor(property.Name)}:{property.GetValue(t)}");
+            }
+            //输出字段的值（当前只有道具）
+            foreach (var field in type.GetFields())
+            {
+                ConsoleHelper.WriteLine($"{t.DisplayFor(field.Name)}:{field.GetValue(t)}");
+            }
+
+            t.Start();
+            t.ImitateDogBark();
+            t.ImitatePeopleVoice();
+            t.ImitateWind();
+        }
+
+
+
+
+
+            public static void Play<T>(T model) where T : BaseModel, ICharge
+        {
+            Type t = typeof(T);
+            foreach (PropertyInfo item in t.GetProperties())
+            {
+                Console.WriteLine($"{t.FullName}的{ item.Name}属性值为{item.GetValue(model)}");
+            }
+
+            foreach (FieldInfo item in t.GetFields())
+            {
+                Console.WriteLine($"{t.FullName}的{ item.Name}字段值为{item.GetValue(model)}");
+            }
+            model.Start();
+            model.Prologue();
+            model.ImitateDogBark();
+            model.ImitatePeopleVoice();
+            model.ImitateWind();
+            model.EndPerformance();
+            model.AcceptMoney();
+        }
+
+
+        private void s()
+        {
             #region  一个泛型方法(用接口和基类约束)
             //ConsoleColor color = ConsoleColor.Yellow;
-            {
-                Console.ForegroundColor = ConsoleColor.Yellow;
-                BaseModel eastor = new Eastor()
-                {
-                    chair = "东派一椅",
-                    EastorName = "东派Name",
-                    table = "东派一桌",
-                    fan = "东派一扇",
-                    person = "东派一人",
-                    ruler = "东派一尺"
-                };
+            //{
+            //    Console.ForegroundColor = ConsoleColor.Yellow;
+            //    BaseModel eastor = new Eastor()
+            //    {
+            //        chair = "东派一椅",
+            //        EastorName = "东派Name",
+            //        table = "东派一桌",
+            //        fan = "东派一扇",
+            //        person = "东派一人",
+            //        ruler = "东派一尺"
+            //    };
 
-                BaseModel southor = new Southor()
-                {
-                    chair = "南派一椅",
-                    SouthorName = "南派Name",
-                    table = "南派一桌",
-                    fan = "南派一扇",
-                    person = "南派一人",
-                    ruler = "南派一尺"
-                };
-                BaseModel westor = new Westor();
-                
-                BaseModel north = new North();
-                Play<Eastor>((Eastor)eastor);
-                Play<Southor>((Southor)southor);
+            //    BaseModel southor = new Southor()
+            //    {
+            //        chair = "南派一椅",
+            //        SouthorName = "南派Name",
+            //        table = "南派一桌",
+            //        fan = "南派一扇",
+            //        person = "南派一人",
+            //        ruler = "南派一尺"
+            //    };
+            //    BaseModel westor = new Westor();
 
-            }
+            //    BaseModel north = new North();
+            //    Play<Eastor>((Eastor)eastor);
+            //    Play<Southor>((Southor)southor);
+
+            //}
             #endregion
 
             #region  3  每个门派都有自己各不相同的绝活， 提供一个方法功能如下，为四个门派:
@@ -69,12 +125,12 @@ namespace _1280_SecondhomeWork
 
             #region  设置不同门派实例对象的温度，去触发火起事件，然后自动触发一系列后续动作
             {
-                Console.WriteLine("****************Fire*****************");
-                LogHelper.WriteLog("****************Fire*****************");
-                Southor southor = new Southor();
-                southor.SouthFireEvent += () => Console.WriteLine("观察者--添加一系列事件1");
-                southor.SouthFireEvent += () => Console.WriteLine("观察者--添加一系列事件2");
-                southor.SetTemperature(800);
+                //Console.WriteLine("****************Fire*****************");
+                //LogHelper.WriteLog("****************Fire*****************");
+                //Southor southor = new Southor();
+                //southor.SouthFireEvent += () => Console.WriteLine("观察者--添加一系列事件1");
+                //southor.SouthFireEvent += () => Console.WriteLine("观察者--添加一系列事件2");
+                //southor.SetTemperature(800);
             }
             #endregion
             {
@@ -94,42 +150,11 @@ namespace _1280_SecondhomeWork
                 Console.WriteLine("***工厂测试结束***");
             }
 
-              //下面的没怎么实现
-              //8 在程序的某些环节，大家可以试着使用泛型、反射、特性；
-              //可以尝试多线程并发
-              //可以让不同门派的颜色不同
-              //甚至可以尝试加入音效
-            Console.ReadLine();
-        }
-
-
-      
-
-
-
-
-
-
-
-        public static void Play<T>(T model) where T : BaseModel, ICharge
-        {
-            Type t = typeof(T);
-            foreach (PropertyInfo item in t.GetProperties())
-            {
-                Console.WriteLine($"{t.FullName}的{ item.Name}属性值为{item.GetValue(model)}");
-            }
-
-            foreach (FieldInfo item in t.GetFields())
-            {
-                Console.WriteLine($"{t.FullName}的{ item.Name}字段值为{item.GetValue(model)}");
-            }
-            model.Start();
-            model.Prologue();
-            model.ImitateDogBark();
-            model.ImitatePeopleVoice();
-            model.ImitateWind();
-            model.EndPerformance();
-            model.AcceptMoney();
+            //下面的没怎么实现
+            //8 在程序的某些环节，大家可以试着使用泛型、反射、特性；
+            //可以尝试多线程并发
+            //可以让不同门派的颜色不同
+            //甚至可以尝试加入音效
         }
     }
 }

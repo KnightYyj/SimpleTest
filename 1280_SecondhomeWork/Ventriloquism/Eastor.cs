@@ -1,4 +1,5 @@
 ﻿using _1280.InterFace;
+using _1280.Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,36 +10,40 @@ namespace Ventriloquism
 {
     public class Eastor : BaseModel, ICharge
     {
-        public string Field = "我是东派";
-        public string EastorName { get; set; }
+        
+        //public string EastorName { get; set; }
 
         public Eastor()
         {
-            base.color = ConsoleColor.Blue;
+            _context = Config.getConfig<Eastor, VocalConfig>();//配置文件转对象
+            _outColor = ConsoleColor.Blue;
         }
 
-        public void EastWIthPlay()
+        public void EastWIthPlay()  //自定义新增一个字段，一个属性，一个方法(绝活儿)，每个门派有独特道具和绝活儿，四个门派各不相同
         {
-            Console.WriteLine("东派绝活");
+            ConsoleHelper.WriteLine("东派绝活", _outColor);
         }
         public override void ImitateDogBark()
         {
-            Console.WriteLine("东派模仿狗叫");
+            ConsoleHelper.WriteLine("东派模仿狗叫", _outColor);
         }
 
         public override void ImitatePeopleVoice()
         {
-            Console.WriteLine("东派模仿哭声");
+            ConsoleHelper.WriteLine("东派模仿哭声", _outColor);
         }
 
         public override void ImitateWind()
         {
-            Console.WriteLine("东派模仿风声");
+            ConsoleHelper.WriteLine("东派模仿风声", _outColor);
         }
 
         public void AcceptMoney()
         {
-            Console.WriteLine("东派表演结束，收费");
+            ConsoleHelper.WriteLine("东派表演结束，收费", _outColor);
         }
+
+     
+
     }
 }

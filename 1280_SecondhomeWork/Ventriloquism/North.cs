@@ -9,8 +9,12 @@ namespace Ventriloquism
 {
     public class North : BaseModel, ICharge
     {
-        public string Field = "我是North";
-        public string NorthName { get; set; }
+        //public string Field = "我是North";
+        //public string NorthName { get; set; }
+        public North()
+        {
+          
+        }
         public void NorthWIthPlay()
         {
             Console.WriteLine("北派绝活");
@@ -19,10 +23,7 @@ namespace Ventriloquism
         {
             Console.WriteLine("北派DogBark");
         }
-        public North()
-        {
-            base.color = ConsoleColor.Green;
-        }
+      
         public override void ImitatePeopleVoice()
         {
             Console.WriteLine("北派PeopleVoice");
@@ -34,7 +35,7 @@ namespace Ventriloquism
         }
         public override void EndPerformance()
         {
-            Console.WriteLine($"{this.Field}复写口技表演结束语");
+            Console.WriteLine($"{this.bField}复写口技表演结束语");
         }
 
         public void AcceptMoney()
@@ -51,6 +52,7 @@ namespace Ventriloquism
             {
                 Console.WriteLine("*********火起***********");
             }
+            base.OnFireEvent();
         }
     }
 }

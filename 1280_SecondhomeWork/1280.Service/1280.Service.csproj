@@ -45,11 +45,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Attribute\ConfigAttribute.cs" />
+    <Compile Include="Attribute\DisplayNameAttribute.cs" />
+    <Compile Include="Concentrate.cs" />
     <Compile Include="ConfigModel.cs" />
+    <Compile Include="ConsoleHelper.cs" />
+    <Compile Include="DisplayNameExtend.cs" />
+    <Compile Include="Enum\ConfigTypeEnum.cs" />
     <Compile Include="JsonHelper.cs" />
     <Compile Include="LogHelper.cs" />
     <Compile Include="MyIO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VocalConfig.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

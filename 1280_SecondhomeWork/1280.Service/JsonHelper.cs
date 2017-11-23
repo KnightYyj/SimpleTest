@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -62,6 +63,20 @@ namespace _1280.Service
             JavaScriptSerializer jss = new JavaScriptSerializer();
 
             return jss.Deserialize<List<T>>(content);
+        }
+
+
+        /// <summary>
+		/// 读取Json文件内容
+		/// </summary>
+		/// <param name="filePath"></param>
+		/// <returns></returns>
+		public static string ReadJson(string filePath)
+        {
+            return File.ReadAllText(filePath, Encoding.Default);
+            //最初的写法
+            //File.ReadAllText(fileName);
+            //防止中文乱码
         }
     }
 }
